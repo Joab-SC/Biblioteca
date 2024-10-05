@@ -1,11 +1,11 @@
 # biblioteca
 
-Descripciín basisca de su Proyecto de POO ...
+Ejercicio de biblioteca con todos los tests - Programación 1
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Sergio Posada
+- Joab Suárez
 
 # Herramientas
 
